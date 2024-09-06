@@ -3,7 +3,7 @@
 /****
  * app info
  */
-define('APP_NAME','Udemy CLone');
+define('APP_NAME','Udemy Clone');
 define('APP_DESC','Free and paid tutotrials');
 
 
